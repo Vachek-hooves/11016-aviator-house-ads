@@ -1,0 +1,9 @@
+{
+  "engine_enabled": false,
+  "interstitial_every_n_actions": 3,
+  "interstitial_every_n_actions_max": 5,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 15000,
+  "creatives": []
+}
