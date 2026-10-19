@@ -1,9 +1,118 @@
 {
-  "engine_enabled": false,
+  "engine_enabled": true,
   "interstitial_every_n_actions": 3,
   "interstitial_every_n_actions_max": 5,
   "interstitial_min_interval_ms": 60000,
   "interstitial_min_watch_ms": 5000,
   "rewarded_min_watch_ms": 15000,
-  "creatives": []
+  "creatives": [
+    {
+      "id": "aviator_banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/banner.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/icon.jpg",
+      "title": "Aviator",
+      "cta_text": "Play",
+      "bundle_id": "com.emberlane.fluxboundrelics",
+      "store_url": "https://play.google.com/store/apps/details?id=com.emberlane.fluxboundrelics",
+      "weight": 1
+    },
+    {
+      "id": "aviator_poster_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/poster-1.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/icon.jpg",
+      "title": "Aviator",
+      "cta_text": "Play",
+      "bundle_id": "com.emberlane.fluxboundrelics",
+      "store_url": "https://play.google.com/store/apps/details?id=com.emberlane.fluxboundrelics",
+      "weight": 1
+    },
+    {
+      "id": "aviator_poster_2",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/poster-2.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/icon.jpg",
+      "title": "Aviator",
+      "cta_text": "Play",
+      "bundle_id": "com.emberlane.fluxboundrelics",
+      "store_url": "https://play.google.com/store/apps/details?id=com.emberlane.fluxboundrelics",
+      "weight": 1
+    },
+    {
+      "id": "aviator_poster_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/poster-3.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/icon.jpg",
+      "title": "Aviator",
+      "cta_text": "Play",
+      "bundle_id": "com.emberlane.fluxboundrelics",
+      "store_url": "https://play.google.com/store/apps/details?id=com.emberlane.fluxboundrelics",
+      "weight": 1
+    },
+    {
+      "id": "aviator_poster_4",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/poster-4.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/icon.jpg",
+      "title": "Aviator",
+      "cta_text": "Play",
+      "bundle_id": "com.emberlane.fluxboundrelics",
+      "store_url": "https://play.google.com/store/apps/details?id=com.emberlane.fluxboundrelics",
+      "weight": 1
+    },
+    {
+      "id": "aviator_poster_5",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/poster-5.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/icon.jpg",
+      "title": "Aviator",
+      "cta_text": "Play",
+      "bundle_id": "com.emberlane.fluxboundrelics",
+      "store_url": "https://play.google.com/store/apps/details?id=com.emberlane.fluxboundrelics",
+      "weight": 1
+    },
+    {
+      "id": "aviator_poster_6",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/poster-6.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/icon.jpg",
+      "title": "Aviator",
+      "cta_text": "Play",
+      "bundle_id": "com.emberlane.fluxboundrelics",
+      "store_url": "https://play.google.com/store/apps/details?id=com.emberlane.fluxboundrelics",
+      "weight": 1
+    },
+    {
+      "id": "aviator_poster_7",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/poster-7.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/icon.jpg",
+      "title": "Aviator",
+      "cta_text": "Play",
+      "bundle_id": "com.emberlane.fluxboundrelics",
+      "store_url": "https://play.google.com/store/apps/details?id=com.emberlane.fluxboundrelics",
+      "weight": 1
+    },
+    {
+      "id": "aviator_poster_8",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/poster-8.jpg",
+      "icon_url": "https://vachek-hooves.github.io/11016-aviator-house-ads/media/icon.jpg",
+      "title": "Aviator",
+      "cta_text": "Play",
+      "bundle_id": "com.emberlane.fluxboundrelics",
+      "store_url": "https://play.google.com/store/apps/details?id=com.emberlane.fluxboundrelics",
+      "weight": 1
+    }
+  ]
 }
